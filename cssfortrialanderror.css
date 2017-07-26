@@ -33,7 +33,7 @@ figcaption {
   background-color:	#c5dcee;
   float: center;
   padding-top: 90px;
-  padding-bottom: 40px;
+  padding-bottom: 0px;;
   padding-left: 40px;
   padding-right: 40px;
   margin: auto;
@@ -57,7 +57,7 @@ p {
   background-color:	#c5dcee;
   float: center;
   padding-top: 40px;
-  padding-bottom: 40px;
+  padding-bottom: 0px;;
   padding-left: 40px;
   padding-right: 40px;
   margin: auto;
@@ -75,7 +75,7 @@ p {
   background-color:	#c5dcee;
   float: center;
   padding-top: 40px;
-  padding-bottom: 40px;
+  padding-bottom: 0px;;
   padding-left: 40px;
   padding-right: 40px;
   margin: auto;
@@ -91,7 +91,7 @@ font-family: 'Bonbon';
   background-color:	#c5dcee;
   float: center;
   padding-top: 40px;
-  padding-bottom: 40px;
+  padding-bottom: 0px;;
   padding-left: 40px;
   padding-right: 40px;
   margin: auto;
@@ -107,7 +107,7 @@ font-family: 'Bonbon';
   float: center;
   color:#85738e;
   padding-top: 90px;
-  padding-bottom: 40px;
+  padding-bottom: 0px;;
   padding-left: 40px;
   padding-right: 40px;
   margin: auto;
@@ -123,9 +123,9 @@ font-family: 'Bonbon';
   background-color:	#c5dcee;
   float: center;
   padding-top: 90px;
-  padding-bottom: 40px;
+  padding-bottom: 0px;;
   padding-left: 40px;
-  padding-right: 40px;
+  padding-right: 40px ;
   margin: auto;
 font-family: 'Bonbon';
 color:#85738e;
@@ -139,7 +139,7 @@ color:#85738e;
   background-color:	#c5dcee;
   float: center;
   padding-top: 90px;
-  padding-bottom: 40px;
+  padding-bottom: 0px;;
   padding-left: 40px;
   padding-right: 40px;
   margin: auto;
@@ -147,30 +147,30 @@ color:#85738e;
   color:#85738e;
 }
 #dango {
-  height:400px;
-  width: 400px;
+  height:600px;
+  width: 600px;
   border:3px dashed black;
   border-radius:6px;
   display:block;
   background-color:	#c5dcee;
   float: center;
   padding-top: 90px;
-  padding-bottom: 40px;
+  padding-bottom: 0px;;
   padding-left: 40px;
   padding-right: 40px;
   margin: auto;
   font-family: 'Bonbon';
 }
 #namagashi {
-  height:400px;
-  width: 400px;
+  height:600px;
+  width: 600px;
   border:3px dashed black;
   border-radius:6px;
   display:block;
   background-color:	#c5dcee;
   float: center;
   padding-top: 90px;
-  padding-bottom: 40px;
+  padding-bottom: 0px;;
   padding-left: 40px;
   padding-right: 40px;
   margin: auto;
@@ -188,15 +188,15 @@ color:#85738e;
   font-size: 30px;
 }
 #imagawayaki {
-  height:400px;
-  width: 400px;
+  height:600px;
+  width: 600px;
   border:3px dashed black;
   border-radius:6px;
   display:block;
   background-color:	#c5dcee;
   float: center;
   padding-top: 90px;
-  padding-bottom: 40px;
+  padding-bottom: 0px;;
   padding-left: 40px;
   padding-right: 40px;
   margin: auto;
@@ -217,7 +217,7 @@ color:#85738e;
     visibility: hidden;
     width: 1000;
     padding-top: 40px;
-    padding-bottom: 40px;
+    padding-bottom: 40px;;
     padding-left: 40px;
     padding-right: 40px;
     border-style: dashed;
@@ -265,15 +265,15 @@ color:#85738e;
 }
 
 #sakuramochi {
-  height:400px;
-  width: 400px;
+  height:600px;
+  width: 600px;
   border:3px dashed black;
   border-radius:6px;
   display:block;
   background-color:	#c5dcee;
   float: center;
   padding-top: 90px;
-  padding-bottom: 40px;
+  padding-bottom: 0px;;
   padding-left: 40px;
   padding-right: 40px;
   margin: auto;
@@ -299,126 +299,130 @@ color:#85738e;
 }
 
 #sakurayu {
-  height:400px;
-  width: 400px;
+  height:600px;
+  width: 600px;
   border:3px dashed black;
   border-radius:6px;
   display:block;
   background-color:	#c5dcee;
   float: center;
   padding-top: 90px;
-  padding-bottom: 40px;
+  padding-bottom: 0px;
   padding-left: 40px;
   padding-right: 40px;
   margin: auto;
   font-family: 'Bonbon';
 }
 #calpico {
-  height:400px;
-  width: 400px;
+  height:600px;
+  width: 600px;
   border:3px dashed black;
   border-radius:6px;
   display:block;
   background-color:	#c5dcee;
   float: center;
   padding-top: 90px;
-  padding-bottom: 40px;
+  padding-bottom: 0px;;
   padding-left: 40px;
   padding-right: 40px;
   margin: auto;
   font-family: 'Bonbon';
 }
 #amazake {
-  height:400px;
-  width: 400px;
+  height:600px;
+  width: 600px;
   border:3px dashed black;
   border-radius:6px;
   display:block;
   background-color:	#c5dcee;
   float: center;
   padding-top: 90px;
-  padding-bottom: 40px;
+  padding-bottom: 0px;;
   padding-left: 40px;
   padding-right: 40px;
   margin: auto;
   font-family: 'Bonbon';
 }
 #ramune {
-  height:400px;
-  width: 400px;
+  height:600px;
+  width: 600px;
   border:3px dashed black;
   border-radius:6px;
   display:block;
   background-color:	#c5dcee;
   float: center;
   padding-top: 90px;
-  padding-bottom: 40px;
+  padding-bottom: 0px;;
   padding-left: 40px;
   padding-right: 40px;
   margin: auto;
   font-family: 'Bonbon';
 }
 #yakitori {
-  height:400px;
-  width: 400px;
+  height:600px;
+  width: 600px;
   border:3px dashed black;
   border-radius:6px;
   display:block;
   background-color:	#c5dcee;
   float: center;
   padding-top: 90px;
-  padding-bottom: 40px;
+  padding-bottom: 0px;;
   padding-left: 40px;
   padding-right: 40px;
   margin: auto;
   font-family: 'Bonbon';
 }
 #okonomiyaki {
-  height:400px;
-  width: 400px;
+  height:600px;
+  width: 600px;
   border:3px dashed black;
   border-radius:6px;
   display:block;
   background-color:	#c5dcee;
   float: center;
   padding-top: 90px;
-  padding-bottom: 40px;
+  padding-bottom: 0px;;
   padding-left: 40px;
   padding-right: 40px;
   margin: auto;
   font-family: 'Bonbon';
 }
 #tonkatsu {
-  height:400px;
-  width: 400px;
+  height:600px;
+  width: 600px;
   border:3px dashed black;
   border-radius:6px;
   display:block;
   background-color:	#c5dcee;
   float: center;
   padding-top: 90px;
-  padding-bottom: 40px;
+  padding-bottom: 0px;;
   padding-left: 40px;
   padding-right: 40px;
   margin: auto;
   font-family: 'Bonbon';
 }
 #takoyaki {
-  height:400px;
-  width: 400px;
+  height:600px;
+  width: 600px;
   border:3px dashed black;
   border-radius:6px;
   display:block;
   background-color:	#c5dcee;
   float: center;
   padding-top: 90px;
-  padding-bottom: 40px;
+  padding-bottom: 0px;;
   padding-left: 40px;
   padding-right: 40px;
   margin: auto;
   font-family: 'Bonbon';
 }
-
+img {
+  margin-bottom: 20px;
+  border:1px dashed black;
+  border-radius:1px;
+}
 ul {
   color:#85738e;
 }
